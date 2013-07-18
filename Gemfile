@@ -10,6 +10,8 @@ group :assets do
   gem 'compass'
 end
 
+gem 'asset_sync'
+
 gem 'sass-rails', " ~> 3.1.6"
 gem 'jquery-rails'
 gem 'haml'
