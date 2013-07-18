@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'rails', '~> 3.1.11'
+gem 'unicorn'
+gem 'pg'
 
 group :assets do
   gem 'coffee-rails', "~> 3.1.0"
